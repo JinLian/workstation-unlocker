@@ -1,4 +1,5 @@
-!!Latest version from paolo-projects (https://github.com/paolo-projects/unlocker/commit/4fa9e1585c7a5204236d927c9cd8740b9a576e28)!!
+!!Latest version from paolo-projects!!<br>
+Here is the URL (https://github.com/paolo-projects/unlocker/commit/4fa9e1585c7a5204236d927c9cd8740b9a576e28)
 
 Thanks for DrDonk. (https://github.com/DrDonk/unlocker)
 
